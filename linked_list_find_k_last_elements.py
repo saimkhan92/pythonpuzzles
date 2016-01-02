@@ -67,6 +67,18 @@ class LinkedList(Node):
             if n>=k: 
                 print(currentnode.getdata())
             currentnode=currentnode.getnext()
+            
+    def display_value_from_last():
+        n=0
+        currentnode=self.root
+        size=self.getsize()
+        while currentnode:
+            n=n+1
+            if n>=k: 
+                print(currentnode.getdata())
+            currentnode=currentnode.getnext()
+        
+        
         
  
 
@@ -74,6 +86,7 @@ class LinkedList(Node):
     
 if __name__=="__main__":
 
+    #algorithm to find the Kth to last element of a linked list
     
 
     obj=LinkedList()
