@@ -64,10 +64,4 @@ if __name__=="__main__":
     print("displaying reverse list")
     obj1.displaylist()
     
-    
-    
-        
-        
-        
-    
         
