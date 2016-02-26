@@ -1,4 +1,5 @@
-#some part of this is incomplete
+# some part of this is incomplete
+
 class Node():
     def __init__(self,d=None,n=None):
         self.data=d

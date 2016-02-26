@@ -1,4 +1,5 @@
-#implementation of a linked list
+# Linked delete node program
+
 import time
 class Node():
     def __init__(self, d, n):

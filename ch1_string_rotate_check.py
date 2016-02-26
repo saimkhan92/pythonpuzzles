@@ -1,5 +1,5 @@
+#check if slave string is a rotation of master string
 
-#check if slave is a rotation of master
 string__m=input("please enter the master string")
 string__s=input("please enter the slave string")
 
