@@ -1,3 +1,5 @@
+# check whether the slave string is a substring of the master
+
 string__m=input("please enter the master string")
 string__s=input("please enter the slave string")
 def is_substring(string_m,string_s):

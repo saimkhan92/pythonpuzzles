@@ -1,5 +1,7 @@
-a=input("enter master string")
-b=input("enter slave string")
+# check if a string a is a permutation of string b
+
+a=input("enter first string")
+b=input("enter second string")
 dict={}
 list1=[0]*256
 
